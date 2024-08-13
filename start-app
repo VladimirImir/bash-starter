@@ -4,7 +4,7 @@ echo "Application is starting..."
 
 default_app_name="Spring"
 echo "Application name is ${default_app_name}!"
- 
+
 #if
 value=-9
 if (( value > 0 )); then
